@@ -11,7 +11,7 @@ nav {
 nav a {
 	line-height: 50px;
 	height: 100%;
-	font-size: 15px;
+	font-size: 20px;
 	display: inline-block;
 	position: relative;
 	z-index: 1;
@@ -48,7 +48,7 @@ nav .start-about, a:nth-child(2):hover~.animation {
 	left: 500px;
 	background-color: #fc6c04;
 }
-nav .start-blog, a:nth-child(3):hover~.animation {
+nav .start-donate, a:nth-child(3):hover~.animation {
 	width: 500px;
 	left: 1000px;
 	background-color: #f4cc04;
@@ -56,24 +56,13 @@ nav .start-blog, a:nth-child(3):hover~.animation {
 
 body {
 	font-size: 12px;
-	font-family: sans-serif;
 	background: #111111;
-}
-h1 {
-	text-align: center;
-	margin: 40px 0 40px;
-	text-align: center;
-	font-size: 30px;
-	color: #ecf0f1;
-	text-shadow: 2px 2px 4px #000000;
-	font-family: 'Cherry Swash', cursive;
 }
 
 p {
     width: 100%;
     text-align: center;
-    color: #ecf0f1;
-    text-transform: uppercase;
+    color: #ffffff;
     font-size: 30px;
 }
 
@@ -82,4 +71,16 @@ p {
     margin-right: auto;
     width: 32.5%;
     padding-top: 50px;
+  }
+
+.footer {
+	background-color: #161616;
+	width: auto;
+	height: 200px;
+}
+
+.redcell-logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
   }

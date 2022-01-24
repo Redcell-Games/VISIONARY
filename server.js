@@ -17,3 +17,7 @@ app.listen(port, function() {
 //https://git.heroku.com/visionarygame.git
 
 //git push https://git.heroku.com/visionarygame.git
+
+//$ git add .
+//$ git commit -am "make it better"
+//$ git push heroku master

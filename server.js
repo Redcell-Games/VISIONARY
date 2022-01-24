@@ -12,3 +12,8 @@ app.get("/", function(req, res){
 app.listen(port, function() {
     console.log("website is up!")
 })
+
+//https://visionarygame.herokuapp.com
+//https://git.heroku.com/visionarygame.git
+
+//git push https://git.heroku.com/visionarygame.git

@@ -90,6 +90,7 @@ p {
 	transition: 0.3s;
 	width: 30%;
 	margin: 1%;
+	border-radius: 10px;
 	text-align: center;
 	display: inline-block;
   }
@@ -104,4 +105,24 @@ p {
 
   .crdcls {
 	  text-align: center;
+  }
+
+  a { text-decoration: none;}
+
+  .vote-div {
+	  margin-left: auto;
+	  margin-right: auto;
+	  font-size: 50px;
+	  text-align: center;
+  }
+
+  .card-img {
+	  border-radius: 10px;
+  }
+
+  h1 {
+	width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
   }
